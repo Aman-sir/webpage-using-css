@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    
+}
+
+.first-div{
+    max-width: 600px;
+    background-color: rgba(232, 127, 255, 0.447);
+    height: 350px;
+    margin:auto;
+    border:20px solid white;
+}

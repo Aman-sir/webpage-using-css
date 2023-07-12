@@ -1,0 +1,84 @@
+* {
+    font-family: algerian;
+    text-align: justify;
+  
+    text-transform: uppercase;
+}
+
+.underline{
+    text-decoration-style:none ;
+    text-decoration-line: underline;
+    text-decoration-color:black;
+
+}
+
+
+BODY {
+    font-family: cursive;
+
+    background-color: #fff8dc;
+}
+
+hr {
+
+    background-color: white;
+    border: none;
+    border-color: grey;
+    border-width: 7px;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+}
+
+h3 {
+    color: #0000ff
+}
+
+h2 {
+    color: #800000
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Rockwell;
+    color: purple;
+   
+}
+
+p {
+    color: orangered;
+}
+
+i {
+    color: orchid;
+}
+
+img:hover {
+    color: blueviolet;
+    background-color: red;
+}
+
+.hero {
+    background-color: blue;
+
+}
+
+.circular {
+    border-radius: 50%;
+}
+
+#broh1 {
+    background-color: yellow;
+    font-size: 80px;
+    font-family: Rockwell;
+    color: palevioletred;
+    border-radius: 0%;
+    height: 70px;
+
+}
+
+a:hover {
+    color: black;
+    background-color: lightgreen;
+}
+
